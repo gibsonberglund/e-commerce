@@ -1,35 +1,40 @@
-# E-commerce Back End Starter Code
+# E-commerce
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## DONE
+## Description
+        This application acts as an inventory database for an online department store. It hasa list of products, separated into different categories, and each product has descriptive tags attached to them.
 
--get route for categories
+## Table of Contents
+[Installation](#Installation)
+[Usage](#Usage)
+[License](#License)
+[Credits](#Credits)
+[Tests](#Tests)
+[Questions](#Questions)
 
--get route for single category
+## Installation
+        You must install npm to use this application, as well as MySQL.
 
--post route for category
+## Usage
+        Using Insomnia, you can view the existing inventory of the store, add products, categories, or tags, update products, categories, or tags, and delete products, categories, or tags. View the walkthrough video below.
+https://drive.google.com/file/d/1SIJ87dzLgSsQfB1r9iquCYcTsbvZvSeG/view
 
--put routes for categories
+## Credits
+        U of MN Web Dev Bootcamp
 
--delete routes for categories
+## License
+        This application is covered under the MIT License
+        Click the link below to learn more about this license:
+https://opensource.org/licenses/MIT
 
--get route for products
+## Tests
+        Start the server and test the routes with Insomnia
 
--get route for single product
+## How To Contribute
+        If you would like to make a contribution to this application,
+        you can contact the creators at the Github URL or the email address provided in the following section.
 
--post, put routes for products
-
--get route for all tags
-
--get route for single tag
-
--post route for tags
-
--put route for tags
-
--delete routes for tags
-
-
-
-## TO DO
-
--delete route for products
+## Questions
+        If you have any questions about this application, you can find more info at my Github URL here: github.com/gibsonberglund
+        Or you can contact me directly at this email address: 
+    
